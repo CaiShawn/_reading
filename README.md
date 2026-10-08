@@ -140,3 +140,5 @@
 ---
 
 > 说明：内容由 Deepseek 整理喵。
+>
+> 主要为电子版，纸质书阅读进度可参见 douban 主页：[steinsmen](https://www.douban.com/people/251892297)
